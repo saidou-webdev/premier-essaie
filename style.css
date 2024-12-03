@@ -1,0 +1,22 @@
+body{
+    display: flex;
+}
+header{
+    background-color: aquamarine;
+    width: 40%;
+}
+img{
+    width: 25%;
+}
+section{
+    background-color:brown;
+    width: 50%;
+    right: 40%;
+
+
+
+}
+h1{border: solid black;
+}
+h2{border: solid black;}
+h3{border: solid black;}
